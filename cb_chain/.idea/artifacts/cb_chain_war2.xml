@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cb_chain:war2">
+    <output-path>$PROJECT_DIR$/out/artifacts/cb_chain_war2</output-path>
+    <root id="archive" name="cb_chain_war.war">
+      <element id="artifact" artifact-name="cb_chain:war exploded" />
+    </root>
+  </artifact>
+</component>
